@@ -1,16 +1,18 @@
 ### Hi there 👋
+Im [https://github.com/imJynx](Jynx) a newb developer learning new things and sharing them with the world.
+Im from australia and im currently still in school heading into my final years.
+Don't have as much time as I used to but I like to do some work when I can.
 
-<!--
-**imJynx/imJynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Started learning python in 2019 and Batch in 2020
+Ive now moved up to C# and C++ and sometimes in some golang when I can be bothered
 
-Here are some ideas to get you started:
+Ive been tampering a bit with cs2 and indie game hacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[https://discord.gg/unauHAurs5](My Discord Server)
+
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx
+
+https://github-profile-trophy.vercel.app/?username=imJynx
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 -->
