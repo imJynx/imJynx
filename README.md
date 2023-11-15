@@ -11,8 +11,8 @@ Ive been tampering a bit with cs2 and indie game hacks.
 [https://discord.gg/unauHAurs5](My Discord Server)
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx)
 
-https://github-profile-trophy.vercel.app/?username=imJynx
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+![Trophys](https://github-profile-trophy.vercel.app/?username=imJynx)
+![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
