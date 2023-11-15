@@ -6,7 +6,7 @@ Started learning python in 2019 and Batch in 2020
 Ive now moved up to C# and C++ and sometimes in some golang when I can be bothered
 Ive been tampering a bit with cs2 and indie game hacks.
 
-[Discord](https://discord.gg/unauHAurs5)
+[https://discord.gg/unauHAurs5](Discord)
 
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx)
