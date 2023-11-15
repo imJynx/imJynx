@@ -13,6 +13,6 @@ Ive been tampering a bit with cs2 and indie game hacks.
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx)
 
-![Langs]([https://github-profile-trophy.vercel.app/?username=imJynx](https://github-readme-stats.vercel.app/api/top-langs/?username=imJynx))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imJynx&show_icons=true)
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
