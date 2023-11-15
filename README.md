@@ -7,6 +7,7 @@ Ive now moved up to C# and C++ and sometimes in some golang when I can be bother
 Ive been tampering a bit with cs2 and indie game hacks.
 
 https://discord.gg/unauHAurs5
+
 ^^^ My Discord Server ^^^
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx)
