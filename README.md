@@ -8,11 +8,11 @@ Ive now moved up to C# and C++ and sometimes in some golang when I can be bother
 
 Ive been tampering a bit with cs2 and indie game hacks.
 
-[https://discord.gg/unauHAurs5](My Discord Server)
+[https://discord.gg/unauHAurs5](Discord)
 
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx)
 
-![Trophys](https://github-profile-trophy.vercel.app/?username=imJynx)
+![Langs]([https://github-profile-trophy.vercel.app/?username=imJynx](https://github-readme-stats.vercel.app/api/top-langs/?username=imJynx))
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
