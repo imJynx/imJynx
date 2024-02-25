@@ -8,9 +8,9 @@ Don't have as much time as I used to but I like to do some work when I can.
 Started getting into coding/development in early 2019.
 Ive been tampering a bit with cs2 and indie game hacks.
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imJynx)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simswapAnti)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imJynx&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=simswapAnti&show_icons=true)
 
 -->
 https://github.com/simswapAnti
